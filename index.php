@@ -1,4 +1,4 @@
 <?php
-$nama= 'PHP me string';
+$nama= 'PHP melakukan string';
 echo $nama;
 ?>
